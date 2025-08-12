@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#bin/bash -c "$(curl -fsSL https://depin.tashi.network/install.sh)" -
 # shellcheck disable=SC2155,SC2181
 
 IMAGE_TAG='ghcr.io/tashigg/tashi-depin-worker:0'
